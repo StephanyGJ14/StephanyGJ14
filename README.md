@@ -1,14 +1,6 @@
 <h1 align="center"> Hi!, WELCOME 👋</h1>  
 
-
-
-
-
-
-
-
-
-
+![Name](https://github.com/StephanyGJ14/StephanyGJ14/assets/140433905/36bab737-62cd-4dbb-8636-d4df5fc6cc27)
 
 
 <!--
