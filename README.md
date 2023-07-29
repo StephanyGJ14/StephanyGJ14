@@ -1,7 +1,17 @@
 <h1 align="center"> Hi!, WELCOME 👋</h1>  
 
-![Name](https://github.com/StephanyGJ14/StephanyGJ14/assets/140433905/36bab737-62cd-4dbb-8636-d4df5fc6cc27)
+![Stephany](https://github.com/StephanyGJ14/StephanyGJ14/assets/140433905/36bab737-62cd-4dbb-8636-d4df5fc6cc27)
 
+## 
+
+* 👤Nombre: Jessica Stephany [
+* 😄 Pronombres: Ella/Ella
+* 📍Ubicación: Estado de México
+* 📣Idiomas: español, inglés y Chino-mandarín
+##
+
+![Write](https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif)
+<h4 align="center"> ¡Siempre es bueno aprender un poco más!</h4> 
 
 <!--
 **StephanyGJ14/StephanyGJ14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
