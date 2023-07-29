@@ -4,7 +4,7 @@
 
 ## 
 
-* 👤Nombre: Jessica Stephany [Stephany Juárez](https://bespoke-lolly-24beca.netlify.app/)
+* 👤Nombre: Jessica [Stephany Juárez](https://bespoke-lolly-24beca.netlify.app/)
 * 😄 Pronombres: Ella/Ella
 * 📍Ubicación: Estado de México
 * 📣Idiomas: español, inglés y Chino-mandarín
